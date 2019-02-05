@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GroceryList</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_Item">Add Item</string>
+    <string name="enter_item">Enter Grocery Item</string>
+    <string name="hint_item">Enter Item</string>
+    <string name="hint_qty">Enter Quantity</string>
+    <string name="Button_Text">Save</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="Groceryname">Item name</string>
+    <string name="Quantity">Qty</string>
+    <string name="Date">Date:</string>
+</resources>
